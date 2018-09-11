@@ -68,4 +68,11 @@ Undefined is when variables don't have a value
 Javascript has a date object that takes in a year, month, and date like this (Year, Month, Date)
 
 
+Arrays
+
+Adding, Updating and Deleting from an array How do we do in FP
+
+Arrays hold multiple records inside []
+
+Expression = anything that evaluates down to a value
 
