@@ -1,0 +1,71 @@
+What is an application?
+
+Most Apps are more alike than different
+
+Most apps have a common structure
+
+Most apps are just lists of data that you can interact with
+
+3 things to be good at
+
+Working with Data
+
+Working with Lists of Data
+
+Doing Data Transformation
+
+
+Let's Learn About Javascript Data types (WOOO)
+
+No Framework
+
+Make an App plan, tell him and one person
+
+Functional Programming Was All the Rage in 2000
+
+
+OOP too complicated
+
+What is functional programming?!?
+
+Write Functional programs all the time
+
+Everyone gets stuck
+
+It's okay to ask for help
+
+
+
+
+Notes on Javascript
+
+Let's use outside js
+
+
+
+Primitive Data Types
+
+Primitive data types can't be broken down to similar things
+
+They include strings '', numbers 1 or 1.0, and booleans true/false
+
+Variables
+
+Immutable data, doesn't change
+
+
+
+Object literal = Record
+
+
+Object Literal is like a record of the information
+Const meal = {
+
+}
+
+Undefined is when variables don't have a value
+
+Javascript has a date object that takes in a year, month, and date like this (Year, Month, Date)
+
+
+
